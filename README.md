@@ -36,4 +36,5 @@ For the pros of agile I would say that it made it a more flexible project becaus
 
 For this project specifically I think that the agile methods were a great approach because it was a project that worked very well with agile. There were times where we needed to be able to adapt on the spot and we were prepared for those as well as anyone could be and changed things accordingly. Another reason I think it was well suited for this project would be that that it enabled us to have constant communication with each other and the stakeholders, so it helped us to create a great project because we all had constant feedback from many people on how they wanted it to be and how to also make it go in the right direction.
 
+![image](https://github.com/matythemus/CS250/assets/112601476/28a878c7-0fd2-424d-acac-c77b7d36ce48)
 
